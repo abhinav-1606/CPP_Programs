@@ -16,5 +16,12 @@ int main(){
     // * -----> (Value of) Dereference Operator
     cout<<"The address of b is "<<*b<<endl;
 
+    // POINTER TO POINTER
+    int** c=&b;
+    cout<<"The address of b is "<<&b<<endl;
+    cout<<"The address of b is "<<c<<endl;
+    cout<<"The value at address c is "<<*c<<endl;
+    cout<<"The value at address value_at(value_at(c)) is "<<**c<<endl;
+
     return 0;
 }

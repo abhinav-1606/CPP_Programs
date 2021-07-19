@@ -1,12 +1,12 @@
-    if((age<18) && (age>0)){
-        cout<<"You cant get your Driving Licence";
-        }
-    else if(age==18){
-        cout<<"Apply Now and Give the Driving Test";
-        }
-    else if(age<1){
-        cout<<"Your are not yet born";
-        }
-    else{
-        cout<<"Show me you Driving Licence";
-    }
+    // cout<<"THESE ARE MATHS MARKS"<<endl;
+    // cout<<mathmarks[0]<<endl;
+    // cout<<mathmarks[1]<<endl;
+    // cout<<mathmarks[2]<<endl;
+    // cout<<mathmarks[3]<<endl;
+    // cout<<mathmarks[4]<<endl;
+
+    // cout<<"THESE ARE ENGLISH MARKS"<<endl;
+    // cout<<engmarks[0]<<endl;
+    // cout<<engmarks[1]<<endl;
+    // cout<<engmarks[2]<<endl;
+    // cout<<engmarks[3]<<endl;
